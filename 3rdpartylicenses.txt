@@ -81,6 +81,8 @@ export default data;
 
 @iconify/icons-ic
 
+@iconify/icons-jam
+
 @iconify/icons-maki
 
 @iconify/icons-uil
